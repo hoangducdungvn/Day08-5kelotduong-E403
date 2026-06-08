@@ -15,10 +15,26 @@ def convert_to_markdown():
     
     if legal_landing.exists():
         for filepath in legal_landing.iterdir():
-            if filepath.is_file() and filepath.suffix in (".pdf", ".docx"):
+            if filepath.is_file() and filepath.suffix in (".pdf", ".docx", ".doc"):
                 print(f"Converting: {filepath.name}")
+                target_path = str(filepath.resolve())
+                if filepath.suffix == ".doc":
+                    try:
+                        import win32com.client
+                        word = win32com.client.Dispatch("Word.Application")
+                        doc = word.Documents.Open(target_path)
+                        docx_path = str(filepath.with_suffix(".docx").resolve())
+                        doc.SaveAs2(docx_path, FileFormat=16)
+                        doc.Close()
+                        word.Quit()
+                        target_path = docx_path
+                        print(f"  [OK] Converted .doc to .docx using win32com")
+                    except Exception as e:
+                        print(f"  [X] Failed to convert .doc to .docx: {e}")
+                        continue
+                        
                 try:
-                    result = md.convert(str(filepath))
+                    result = md.convert(target_path)
                     out_path = legal_std / f"{filepath.stem}.md"
                     out_path.write_text(result.text_content, encoding="utf-8")
                     print(f"  [OK] Saved: {out_path.name}")
