@@ -1,17 +1,82 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "question": "Luật Phòng, chống ma túy 2021 quy định phạm vi điều chỉnh là gì?",
+    "expected_answer": "Luật quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 1"
+  },
+  {
+    "question": "Theo Luật Phòng, chống ma túy 2021, chất ma túy được hiểu như thế nào?",
+    "expected_answer": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 2"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 nêu những chính sách nào của Nhà nước về phòng, chống ma túy?",
+    "expected_answer": "Nhà nước thực hiện đồng bộ các biện pháp phòng, chống ma túy; tăng cường tuyên truyền, giáo dục; khuyến khích tổ chức, cá nhân tham gia phòng, chống ma túy; bảo đảm ngân sách; và thực hiện chính sách nhân đạo đối với người nghiện trong cai nghiện, quản lý sau cai nghiện.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 3"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 cấm những hành vi nào liên quan đến ma túy?",
+    "expected_answer": "Luật cấm trồng cây có chứa chất ma túy, sản xuất và tàng trữ trái phép chất ma túy, sử dụng hoặc tổ chức sử dụng trái phép chất ma túy, sản xuất hoặc mua bán phương tiện dùng vào việc sản xuất và sử dụng trái phép chất ma túy, và đưa trái phép chất ma túy hoặc tiền chất vào lãnh thổ Việt Nam.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 5"
+  },
+  {
+    "question": "Ai phải bị xét nghiệm chất ma túy trong cơ thể theo Luật Phòng, chống ma túy 2021?",
+    "expected_answer": "Người bị phát hiện sử dụng trái phép chất ma túy, người mà cơ quan hoặc người có thẩm quyền có căn cứ cho rằng có hành vi sử dụng trái phép chất ma túy, và người sử dụng trái phép chất ma túy đang trong thời hạn quản lý.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 22"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 quy định những hình thức cai nghiện ma túy nào?",
+    "expected_answer": "Luật quy định cai nghiện ma túy tự nguyện tại gia đình, cộng đồng; cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy; và cai nghiện ma túy bắt buộc tại cơ sở cai nghiện ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 29"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy số 73/2021/QH14 có hiệu lực từ ngày nào?",
+    "expected_answer": "Luật có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.",
+    "expected_context": "Luật Phòng, chống ma túy 2021, Điều 54"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định những cơ quan chuyên trách phòng, chống tội phạm về ma túy nào?",
+    "expected_answer": "Nghị định nêu Cục Cảnh sát điều tra tội phạm về ma túy và phòng cảnh sát điều tra tội phạm về ma túy của công an tỉnh, thành phố; Cục Phòng, chống ma túy và tội phạm, các đoàn đặc nhiệm của Bộ đội Biên phòng; Cục Phòng, chống ma túy và tội phạm và các đoàn đặc nhiệm của Cảnh sát biển Việt Nam; và cơ quan điều tra chống buôn lậu, kiểm tra sau thông quan, chi cục hải quan thuộc Tổng cục Hải quan.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 3"
+  },
+  {
+    "question": "Theo Nghị định 105/2021/NĐ-CP, nội dung phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy gồm những gì?",
+    "expected_answer": "Các cơ quan phối hợp trong xây dựng kế hoạch chung về phòng ngừa, đấu tranh; thông báo, chia sẻ thông tin và tài liệu về tình hình và hoạt động của tội phạm ma túy.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 5"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định điều kiện kinh doanh chất ma túy và tiền chất như thế nào?",
+    "expected_answer": "Tổ chức kinh doanh chất ma túy và tiền chất phải được thành lập hợp pháp, người đứng đầu và người được ủy quyền phải có đầy đủ năng lực hành vi dân sự và không có tiền án về tội phạm liên quan đến ma túy, đồng thời phải có kho và phương tiện bảo quản đáp ứng yêu cầu kỹ thuật, an ninh và an toàn.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 14"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP quy định xét nghiệm chất ma túy trong cơ thể và kiểm tra nơi cư trú của người đang trong thời hạn quản lý ra sao?",
+    "expected_answer": "Người thuộc trường hợp phải xét nghiệm chất ma túy trong cơ thể sẽ được cơ quan có thẩm quyền mời đến xét nghiệm; nếu không hợp tác thì Công an sẽ triệu tập. Ít nhất 01 lần trong tháng, Công an cấp xã nơi quản lý người sử dụng trái phép chất ma túy phải kiểm tra, cập nhật nơi cư trú của người đang trong thời hạn quản lý.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 31 và Điều 38"
+  },
+  {
+    "question": "Bộ luật Hình sự 2015, sửa đổi 2017, quy định những tội phạm nào về ma túy trong Chương XX?",
+    "expected_answer": "Chương XX quy định 13 điều về tội phạm ma túy, gồm các tội trồng cây thuốc phiện, sản xuất trái phép chất ma túy, tàng trữ trái phép chất ma túy, vận chuyển trái phép chất ma túy, mua bán trái phép chất ma túy, chiếm đoạt chất ma túy, tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất, sản xuất hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy, tổ chức sử dụng trái phép chất ma túy, chứa chấp việc sử dụng trái phép chất ma túy, cưỡng bức hoặc lôi kéo người khác sử dụng trái phép chất ma túy, và vi phạm quy định về quản lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần.",
+    "expected_context": "Bộ luật Hình sự 2015 (sửa đổi 2017), Chương XX"
+  },
+  {
+    "question": "Điều 247 Bộ luật Hình sự 2015 quy định hình phạt cơ bản với hành vi trồng cây có chứa chất ma túy là gì?",
+    "expected_answer": "Người trồng cây thuốc phiện, cây coca, cây cần sa hoặc cây khác có chứa chất ma túy trong trường hợp thuộc khoản 1 Điều 247 bị phạt tù từ 06 tháng đến 03 năm.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 247"
+  },
+  {
+    "question": "Điều 248 Bộ luật Hình sự 2015 quy định khung hình phạt cơ bản cho tội sản xuất trái phép chất ma túy là gì?",
+    "expected_answer": "Người nào sản xuất trái phép chất ma túy dưới bất kỳ hình thức nào thì bị phạt tù từ 02 năm đến 07 năm.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 248"
+  },
+  {
+    "question": "Điều 249 Bộ luật Hình sự 2015 quy định khung hình phạt cơ bản cho tội tàng trữ trái phép chất ma túy là gì?",
+    "expected_answer": "Người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy thuộc trường hợp quy định tại khoản 1 Điều 249 thì bị phạt tù từ 01 năm đến 05 năm.",
     "expected_context": "Bộ luật Hình sự 2015, Điều 249"
   },
   {
-    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
-  },
-  {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Bài viết về ca sĩ Miu Lê trên Tuổi Trẻ Online cho biết nội dung chính là gì?",
+    "expected_answer": "Bài viết cho biết Lê Ánh Nhật, tức ca sĩ Miu Lê, bị Công an thành phố Hải Phòng giữ để điều tra về hành vi sử dụng trái phép chất ma túy.",
+    "expected_context": "data/standardized/news/article_01.md"
   }
 ]
