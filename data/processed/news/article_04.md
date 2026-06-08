@@ -1,0 +1,453 @@
+---
+title: "Tin bóng đá 13/6: MU mua Asensio, Man City lấy Gavi"
+source: "article_04.md"
+category: "Tin tức"
+---
+
+# Tin bóng đá 13/6: MU mua Asensio, Man City lấy Gavi
+
+Thứ hai, 08/06/2026  [ Xem lịch vạn niên ](https://vietnamnet.vn/lich-van-nien)
+[ ![VietNamNet](https://static.vnncdn.net/v1/logo/logoVietnamNet.svg) ](https://vietnamnet.vn/ "vietnamnet")
+Thứ hai, 08/06/2026  [ Xem lịch vạn niên ](https://vietnamnet.vn/lich-van-nien)
+  * [# Thi lớp 10 ](https://vietnamnet.vn/giao-duc/thi-vao-lop-10#vnn_source=camp&vnn_medium=hashtag&vnn_campaign=thi-lop-10-nam-2026 "Thi lớp 10")
+  * [# World Cup 2026 ](https://vietnamnet.vn/the-thao/world-cup#vnn_source=camp&vnn_medium=hashtag&vnn_campaign=worldcup2026 "World Cup 2026")
+
+  * [ Podcast ](https://vietnamnet.vn/podcast "podcast")
+  * [Tuần Việt Nam](https://vietnamnet.vn/tuan-viet-nam "Tuần Việt Nam")
+  * [ ![Vietnamnet premium](https://vnn-res.vgcloud.vn/ResV9/images/vpremium-menu-logo.svg) ](https://vietnamnet.vn/premium "Vietnamnet premium")
+  * [ ![Vietnamnet global](https://static.vnncdn.net/v1/icon/VietnamNet_bridge.svg) ](https://vietnamnet.vn/en "Vietnamnet global")
+  * Đăng nhập ![login vietnamnet](https://static.vnncdn.net/v1/icon/login.svg)
+
+![](https://static.vnncdn.net/v1/icon/icon-search.svg)
+  * [ ](https://vietnamnet.vn/ "VietNamNet")
+  * [ Chính trị ](https://vietnamnet.vn/chinh-tri "Chính trị")
+    * [Sự kiện](https://vietnamnet.vn/chinh-tri/su-kien "Sự kiện")
+    * [Xây dựng đảng](https://vietnamnet.vn/chinh-tri/xay-dung-dang "Xây dựng đảng")
+    * [Đối ngoại](https://vietnamnet.vn/chinh-tri/doi-ngoai "Đối ngoại")
+    * [Bàn luận](https://vietnamnet.vn/chinh-tri/ban-luan "Bàn luận")
+    * [Kỷ nguyên mới của dân tộc](https://vietnamnet.vn/chinh-tri/ky-nguyen-moi-cua-dan-toc "Kỷ nguyên mới của dân tộc")
+    * [Quốc phòng](https://vietnamnet.vn/chinh-tri/quoc-phong "Quốc phòng")
+    * [Quốc hội](https://vietnamnet.vn/chinh-tri/quoc-hoi-khoa-xvi "Quốc hội")
+    * [Nghị quyết 57](https://vietnamnet.vn/nghi-quyet-57 "Nghị quyết 57")
+  * [ Thời sự ](https://vietnamnet.vn/thoi-su "Thời sự")
+    * [Dân sinh](https://vietnamnet.vn/thoi-su/dan-sinh "Dân sinh")
+    * [Giao thông](https://vietnamnet.vn/thoi-su/giao-thong "Giao thông")
+    * [Tin nóng](https://vietnamnet.vn/thoi-su/tin-nong "Tin nóng")
+    * [Đô thị](https://vietnamnet.vn/thoi-su/do-thi "Đô thị")
+    * [Pháp luật](https://vietnamnet.vn/thoi-su/phap-luat "Pháp luật")
+  * [ Kinh doanh ](https://vietnamnet.vn/kinh-doanh "Kinh doanh")
+    * [Net Zero](https://vietnamnet.vn/net-zero "Net Zero")
+    * [Tài chính](https://vietnamnet.vn/kinh-doanh/tai-chinh "Tài chính")
+    * [Đầu tư](https://vietnamnet.vn/kinh-doanh/dau-tu "Đầu tư")
+    * [Thị trường](https://vietnamnet.vn/kinh-doanh/thi-truong "Thị trường")
+    * [Doanh nhân](https://vietnamnet.vn/kinh-doanh/doanh-nhan "Doanh nhân")
+    * [Tư vấn tài chính](https://vietnamnet.vn/kinh-doanh/tu-van-tai-chinh "Tư vấn tài chính")
+  * [ Dân tộc và Tôn giáo ](https://vietnamnet.vn/dan-toc-ton-giao "Dân tộc và Tôn giáo")
+    * [Tin tức](https://vietnamnet.vn/dan-toc-ton-giao/tin-tuc "Tin tức")
+    * [Sắc màu Việt Nam](https://vietnamnet.vn/dan-toc-ton-giao/sac-mau-viet-nam "Sắc màu Việt Nam")
+    * [Chính sách phát triển](https://vietnamnet.vn/dan-toc-ton-giao/chinh-sach-phat-trien "Chính sách phát triển")
+    * [Nhân vật](https://vietnamnet.vn/dan-toc-ton-giao/nhan-vat "Nhân vật")
+    * [Đời sống tôn giáo](https://vietnamnet.vn/dan-toc-ton-giao/doi-song-ton-giao "Đời sống tôn giáo")
+    * [Tư vấn](https://vietnamnet.vn/dan-toc-ton-giao/tu-van "Tư vấn")
+  * [ Giáo dục ](https://vietnamnet.vn/giao-duc "Giáo dục")
+    * [Nhà trường](https://vietnamnet.vn/giao-duc/nha-truong "Nhà trường")
+    * [Chân dung](https://vietnamnet.vn/giao-duc/chan-dung "Chân dung")
+    * [Góc phụ huynh](https://vietnamnet.vn/giao-duc/goc-phu-huynh "Góc phụ huynh")
+    * [Tuyển sinh ](https://vietnamnet.vn/giao-duc/tuyen-sinh "Tuyển sinh ")
+    * [Du học](https://vietnamnet.vn/giao-duc/du-hoc "Du học")
+    * [Học Tiếng Anh](https://vietnamnet.vn/giao-duc/hoc-tieng-anh "Học Tiếng Anh")
+    * [Trắc nghiệm](https://vietnamnet.vn/giao-duc/trac-nghiem "Trắc nghiệm")
+    * [Khoa học](https://vietnamnet.vn/giao-duc/khoa-hoc "Khoa học")
+    * [AI CONTEST](https://vietnamnet.vn/giao-duc/ai-contest "AI CONTEST")
+    * [Điểm thi THPT](https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-thi-tot-nghiep-thpt-2025#vnn_source=camp&vnn_medium=menu-top&vnn_campaign=tuyen-sinh-dh-cd-2025&vnn_term "Điểm thi THPT")
+    * [Điểm chuẩn CĐ-ĐH](https://vietnamnet.vn/giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2025#vnn_source=camp&vnn_medium=menu-top&vnn_campaign=tuyen-sinh-dh-cd-2025&vnn_term "Điểm chuẩn CĐ-ĐH")
+  * [ Thế giới ](https://vietnamnet.vn/the-gioi "Thế giới")
+    * [Bình luận quốc tế](https://vietnamnet.vn/the-gioi/binh-luan-quoc-te "Bình luận quốc tế")
+    * [Chân dung](https://vietnamnet.vn/the-gioi/chan-dung "Chân dung")
+    * [Hồ sơ](https://vietnamnet.vn/the-gioi/ho-so "Hồ sơ")
+    * [Thế giới đó đây](https://vietnamnet.vn/the-gioi/the-gioi-do-day "Thế giới đó đây")
+    * [Việt Nam và thế giới](https://vietnamnet.vn/the-gioi/viet-nam-va-the-gioi "Việt Nam và thế giới")
+    * [Quân sự](https://vietnamnet.vn/the-gioi/quan-su "Quân sự")
+  * [ Thể thao ](https://vietnamnet.vn/the-thao "Thể thao")
+    * [Bóng đá Việt Nam](https://vietnamnet.vn/the-thao/bong-da-viet-nam "Bóng đá Việt Nam")
+    * [Bóng đá quốc tế](https://vietnamnet.vn/the-thao/bong-da-quoc-te "Bóng đá quốc tế")
+    * [Tin chuyển nhượng](https://vietnamnet.vn/the-thao/tin-chuyen-nhuong "Tin chuyển nhượng")
+    * [Tường thuật trực tiếp](https://vietnamnet.vn/the-thao/xem-truc-tiep-bong-da "Tường thuật trực tiếp")
+    * [Video thể thao](https://vietnamnet.vn/the-thao/video-the-thao "Video thể thao")
+    * [Dữ liệu bóng đá](https://vietnamnet.vn/the-thao/du-lieu-bong-da "Dữ liệu bóng đá")
+    * [Hậu trường](https://vietnamnet.vn/the-thao/hau-truong "Hậu trường")
+    * [Các môn khác](https://vietnamnet.vn/the-thao/cac-mon-khac "Các môn khác")
+  * [ Văn hóa - Giải trí ](https://vietnamnet.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
+    * [Thế giới sao](https://vietnamnet.vn/van-hoa-giai-tri/the-gioi-sao "Thế giới sao")
+    * [Nhạc](https://vietnamnet.vn/van-hoa-giai-tri/nhac "Nhạc")
+    * [Phim - Truyền hình](https://vietnamnet.vn/van-hoa-giai-tri/phim-truyen-hinh "Phim - Truyền hình")
+    * [Sách](https://vietnamnet.vn/van-hoa-giai-tri/sach "Sách")
+    * [Mỹ thuật - Sân khấu](https://vietnamnet.vn/van-hoa-giai-tri/my-thuat-san-khau "Mỹ thuật - Sân khấu")
+    * [Di sản](https://vietnamnet.vn/van-hoa-giai-tri/di-san "Di sản")
+    * [LHP châu Á Đà Nẵng - DANAFF](https://vietnamnet.vn/van-hoa-giai-tri/danaff "LHP châu Á Đà Nẵng - DANAFF")
+  * [ Đời sống ](https://vietnamnet.vn/doi-song "Đời sống")
+    * [Gia đình](https://vietnamnet.vn/doi-song/gia-dinh "Gia đình")
+    * [Chuyện lạ](https://vietnamnet.vn/doi-song/chuyen-la "Chuyện lạ")
+    * [Ẩm thực](https://vietnamnet.vn/doi-song/am-thuc "Ẩm thực")
+    * [Giới trẻ](https://vietnamnet.vn/doi-song/gioi-tre "Giới trẻ")
+    * [Mẹo vặt](https://vietnamnet.vn/doi-song/meo-vat "Mẹo vặt")
+    * [Tâm sự](https://vietnamnet.vn/doi-song/tam-su "Tâm sự")
+  * [ Tuần Việt Nam ](https://vietnamnet.vn/tuan-viet-nam "Tuần Việt Nam")
+  * [ Sức khỏe ](https://vietnamnet.vn/suc-khoe "Sức khỏe")
+    * [Tin tức](https://vietnamnet.vn/suc-khoe/suc-khoe-24h "Tin tức")
+    * [Làm đẹp](https://vietnamnet.vn/suc-khoe/lam-dep "Làm đẹp")
+    * [Tư vấn sức khỏe](https://vietnamnet.vn/suc-khoe/tu-van-suc-khoe "Tư vấn sức khỏe")
+    * [Đàn ông](https://vietnamnet.vn/suc-khoe/dan-ong "Đàn ông")
+    * [Các loại bệnh](https://vietnamnet.vn/suc-khoe/benh "Các loại bệnh")
+  * [ Công nghệ ](https://vietnamnet.vn/cong-nghe "Công nghệ")
+    * [Thị trường](https://vietnamnet.vn/cong-nghe/thi-truong "Thị trường")
+    * [Chuyển đổi số](https://vietnamnet.vn/cong-nghe/chuyen-doi-so "Chuyển đổi số")
+    * [Hạ tầng số](https://vietnamnet.vn/cong-nghe/ha-tang-so "Hạ tầng số")
+    * [An ninh mạng](https://vietnamnet.vn/cong-nghe/an-ninh-mang "An ninh mạng")
+    * [Sản phẩm](https://vietnamnet.vn/cong-nghe/san-pham "Sản phẩm")
+    * [AI](https://vietnamnet.vn/cong-nghe/ai "AI")
+  * [ Xe ](https://vietnamnet.vn/oto-xe-may "Xe")
+    * [Xe mới ](https://vietnamnet.vn/oto-xe-may/xe-moi "Xe mới ")
+    * [Khám phá](https://vietnamnet.vn/oto-xe-may/kham-pha "Khám phá")
+    * [Sau tay lái](https://vietnamnet.vn/oto-xe-may/sau-tay-lai "Sau tay lái")
+    * [Diễn đàn](https://vietnamnet.vn/oto-xe-may/dien-dan "Diễn đàn")
+    * [Tư vấn](https://vietnamnet.vn/oto-xe-may/tu-van "Tư vấn")
+    * [Đánh giá xe ](https://vietnamnet.vn/oto-xe-may/danh-gia-xe "Đánh giá xe ")
+    * [Giá xe](https://vietnamnet.vn/oto-xe-may/gia-xe "Giá xe")
+    * [Dữ liệu xe](https://vietnamnet.vn/oto-xe-may/du-lieu-xe "Dữ liệu xe")
+  * [ Bất động sản ](https://vietnamnet.vn/bat-dong-san "Bất động sản")
+    * [Dự án](https://vietnamnet.vn/bat-dong-san/du-an "Dự án")
+    * [Nội thất](https://vietnamnet.vn/bat-dong-san/noi-that "Nội thất")
+    * [Tư vấn](https://vietnamnet.vn/bat-dong-san/kinh-nghiem-tu-van "Tư vấn")
+    * [Thị trường](https://vietnamnet.vn/bat-dong-san/thi-truong "Thị trường")
+    * [Nhà đẹp](https://vietnamnet.vn/bat-dong-san/nha-dep "Nhà đẹp")
+    * [Cơ hội an cư](https://vietnamnet.vn/bat-dong-san/kim-oanh-group "Cơ hội an cư")
+  * [ Du lịch ](https://vietnamnet.vn/du-lich "Du lịch")
+    * [Chuyện của những dòng sông](https://vietnamnet.vn/du-lich/chuyen-cua-nhung-dong-song-sk0008F1.html "Chuyện của những dòng sông")
+    * [Đi đâu chơi đi](https://vietnamnet.vn/du-lich/di-dau-choi-di "Đi đâu chơi đi")
+    * [Ăn Ăn Uống Uống](https://vietnamnet.vn/du-lich/an-uong "Ăn Ăn Uống Uống")
+    * [Ngủ Ngủ Nghỉ Nghỉ](https://vietnamnet.vn/du-lich/ngu-nghi "Ngủ Ngủ Nghỉ Nghỉ")
+  * [ Bạn đọc ](https://vietnamnet.vn/ban-doc "Bạn đọc")
+    * [Hồi âm](https://vietnamnet.vn/ban-doc/hoi-am "Hồi âm")
+    * [Chia sẻ](https://vietnamnet.vn/ban-doc/chia-se "Chia sẻ")
+    * [Thơ](https://vietnamnet.vn/ban-doc/tho "Thơ")
+    * [Ngày mai tươi sáng](https://vietnamnet.vn/ban-doc/ngay-mai-tuoi-sang "Ngày mai tươi sáng")
+  * [ ](javascript:; "Hamburger menu")
+
+[ ![](https://static.vnncdn.net/v1/icon/icon_button_next-01.svg) ](javascript:;) [ ![](https://static.vnncdn.net/v1/icon/icon_button_next-01.svg) ](javascript:;)
+[ ![VietNamNet](https://static.vnncdn.net/v1/logo/logoVietnamNet.svg) ](https://vietnamnet.vn/ "Vietnamnet")
+![search icon](https://static.vnncdn.net/v1/icon/search.png)
+![search.png](https://static.vnncdn.net/v1/icon/search.png)
+  * [ ![](https://vnn-res.vgcloud.vn/ResV9/images/vpremium-menu-logo.svg) ](https://vietnamnet.vn/premium "premium vietnamnet")
+  * [Chính trị](https://vietnamnet.vn/chinh-tri "Chính trị")
+  * [Thời sự](https://vietnamnet.vn/thoi-su "Thời sự")
+  * [Kinh doanh](https://vietnamnet.vn/kinh-doanh "Kinh doanh")
+  * [Dân tộc và Tôn giáo](https://vietnamnet.vn/dan-toc-ton-giao "Dân tộc và Tôn giáo")
+  * [Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+  * [Giáo dục](https://vietnamnet.vn/giao-duc "Giáo dục")
+  * [Thế giới](https://vietnamnet.vn/the-gioi "Thế giới")
+  * [Đời sống](https://vietnamnet.vn/doi-song "Đời sống")
+  * [Văn hóa - Giải trí](https://vietnamnet.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
+  * [Sức khỏe](https://vietnamnet.vn/suc-khoe "Sức khỏe")
+  * [Công nghệ](https://vietnamnet.vn/cong-nghe "Công nghệ")
+  * [Ô tô xe máy](https://vietnamnet.vn/oto-xe-may "Ô tô xe máy")
+  * [Du lịch](https://vietnamnet.vn/du-lich "Du lịch")
+  * [Bất động sản](https://vietnamnet.vn/bat-dong-san "Bất động sản")
+  * [Bạn đọc](https://vietnamnet.vn/ban-doc "Bạn đọc")
+  * [Tuần Việt Nam](https://vietnamnet.vn/tuan-viet-nam "Tuần Việt Nam")
+  * [Công nghiệp hỗ trợ](https://vietnamnet.vn/hop-tac/cong-nghiep-ho-tro "Công nghiệp hỗ trợ")
+  * [Giảm nghèo bền vững](https://giamngheobenvung.vietnamnet.vn "Giảm nghèo bền vững")
+  * [Nông thôn mới](https://vietnamnet.vn/nong-thon-moi "Nông thôn mới")
+  * [Dân tộc thiểu số và miền núi](https://vietnamnet.vn/dan-toc-thieu-so-va-mien-nui "Dân tộc thiểu số và miền núi")
+  * [Nội dung chuyên đề](https://vietnamnet.vn/noi-dung-chuyen-de "Nội dung chuyên đề")
+  * [English](https://vietnamnet.vn/en "English")
+  * [Đính chính](https://vietnamnet.vn/dinh-chinh "Đính chính")
+
+  * Cơ quan chủ quản: Bộ Dân tộc và Tôn giáo
+  * Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025
+  * Tổng biên tập: Nguyễn Văn Bá
+
+  * Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình Nghệ, phường Cầu Giấy, TP. Hà Nội. 
+  * Điện thoại: 02439369898 - Hotline: 0923457788
+  * Email: vietnamnet@vietnamnet.vn
+  * © 1997 Báo VietNamNet. All rights reserved.
+  * Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet.
+
+  * Công ty Cổ phần Truyền thông VietNamNet
+  * Hotline: 0919 405 885 (Hà Nội) - 0919 435 885 (Tp.HCM)
+  * Email: contact@vietnamnet.vn
+  * Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn
+
+  * [Talks](https://vietnamnet.vn/talkshow%20)
+  * [Hồ sơ](https://vietnamnet.vn/ho-so)
+  * [Ảnh](https://vietnamnet.vn/anh)
+  * [Video](https://vietnamnet.vn/video)
+  * [Multimedia](https://vietnamnet.vn/multimedia)
+  * [Podcast](https://vietnamnet.vn/podcast)
+  * [24h qua](https://vietnamnet.vn/tin-tuc-24h)
+
+  * [Tuyến bài](https://vietnamnet.vn/tuyen-bai)
+  * [Sự kiện nóng](https://vietnamnet.vn/su-kien)
+
+  * [Liên hệ tòa soạn](https://vietnamnet.vn/thong-tin-toa-soan "Liên hệ tòa soạn")
+  * [Liên hệ quảng cáo](https://vads.vn/ "Liên hệ quảng cáo")
+
+  * [ ![download app](https://static.vnncdn.net/v1/icon/tai-app.svg) ](https://vietnamnet.vn/download-app)
+  * [Độc giả gửi bài](https://vietnamnet.vn/doc-gia-gui-bai "Liên hệ tòa soạn")
+  * [Tuyển dụng](https://vietnamnet.vn/tuyen-dung "Tuyển dụng")
+  * [Lịch vạn niên](https://vietnamnet.vn/lich-van-nien "Lịch vạn niên")
+
+![icon](https://static.vnncdn.net/v1/icon/chat.svg) Aa
+![share facebook](https://static.vnncdn.net/v1/icon/icon-share-link-facebook.svg) Facebook  ![share zalo](https://static.vnncdn.net/v1/icon/zalo-unactive-mobile%20.svg) Zalo  ![share email](https://static.vnncdn.net/v1/icon/icon-share-link-email.svg) Email  ![](https://static.vnncdn.net/v1/icon/icon-link-share-copy-link.svg) Sao chép liên kết
+Aa Aa
+[ ![VietNamNet](https://static.vnncdn.net/v1/logo/logoVietnamNet.svg) ](https://vietnamnet.vn/ "Vietnamnet")
+  * [ ![icon](https://static.vnncdn.net/v1/icon/home_mobile.svg) ](https://vietnamnet.vn/)
+  * [ Thể thao ](https://vietnamnet.vn/the-thao "Thể thao")
+    * [ Chính trị ](https://vietnamnet.vn/chinh-tri "Chính trị")
+    * [ Thời sự ](https://vietnamnet.vn/thoi-su "Thời sự")
+    * [ Kinh doanh ](https://vietnamnet.vn/kinh-doanh "Kinh doanh")
+    * [ Dân tộc và Tôn giáo ](https://vietnamnet.vn/dan-toc-ton-giao "Dân tộc và Tôn giáo")
+    * [ Giáo dục ](https://vietnamnet.vn/giao-duc "Giáo dục")
+    * [ Thế giới ](https://vietnamnet.vn/the-gioi "Thế giới")
+    * [ Thể thao ](https://vietnamnet.vn/the-thao "Thể thao")
+    * [ Văn hóa - Giải trí ](https://vietnamnet.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
+    * [ Đời sống ](https://vietnamnet.vn/doi-song "Đời sống")
+    * [ Sức khỏe ](https://vietnamnet.vn/suc-khoe "Sức khỏe")
+    * [ Công nghệ ](https://vietnamnet.vn/cong-nghe "Công nghệ")
+    * [ Xe ](https://vietnamnet.vn/oto-xe-may "Xe")
+    * [ Bất động sản ](https://vietnamnet.vn/bat-dong-san "Bất động sản")
+    * [ Du lịch ](https://vietnamnet.vn/du-lich "Du lịch")
+    * [ Bạn đọc ](https://vietnamnet.vn/ban-doc "Bạn đọc")
+
+Thứ Hai, 13/06/2022 - 14:14 
+# MU hỏi mua Asensio, Man City lấy Gavi
+[ ](javasctip:void\(0\); "Chia sẻ bài viết lên facebook") [ ](javasctip:void\(0\); "Chia sẻ bài viết lên zalo") [ ](javasctip:void\(0\); "Chia sẻ bài viết lên email") [ Sao chép liên kết ](javasctip:void\(0\); "Sao chép liên kết") [ ](javasctip:void\(0\); "Lưu bài viết") [ ](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html#comment_count "Comment")
+13/06/2022 14:14 (GMT+07:00)
+[ ![icon](https://static.vnncdn.net/v1/icon/google-news.svg) ](https://news.google.com/publications/CAAqBwgKMNi4kgswo_-nAw/sections/CAQqEAgAKgcICjDYuJILMKP_pwMw7pCTBw?ceid=VN:vi&oc=3&hl=vi&gl=VN)
+## MU hỏi mua Asensio, Man City muốn lấy Gavi, Barca tiếp cận mục tiêu Nahuel Molina là những tin bóng đá chính hôm nay, 13/6.
+**MU lên kế hoạch mua Asensio**
+The Sun dẫn nguồn tin từ Mundo Deportivo cho biết, MU chính thức triển khai kế hoạch chiêu mộ Marco Asensio để tăng cường nhân sự cho hàng công mùa giải tới.
+![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) MU có kế hoạch mua Asensio
+Cách nay không lâu, Asensio quyết định chọn người đại diện Jorge Mendes. Chuyên gia chuyển nhượng người Bồ Đào Nha nhanh chóng liên hệ với MU để "chào hàng".
+Asensio vừa có trận đấu chính đầu tiên cho Tây Ban Nha kể từ tháng 11/2020, trong trận thắng CH Czech 2-0 ở UEFA Nations League. Dù vậy, anh không chắc chắn tương lai với Real Madrid.
+Hợp đồng của Asensio chỉ còn một năm. HLV Carlo Ancelotti ưu ái Rodrygo và Fede Valverde ở hành lang phải hơn, nên Marco có khả năng rời sân Bernabeu.
+HLV Erik ten Hag cũng rất yêu thích Asensio. MU phải cạnh tranh với Arsenal và Milan để có được cầu thủ 26 tuổi này.
+**Man City muốn lấy Gavi**
+Tương lai của tài năng trẻ Gavi (Pablo Gavira) đang trở thành câu chuyện hấp dẫn [**thị trường chuyển nhượng**](https://vietnamnet.vn/the-thao/tin-chuyen-nhuong), khi Man City của Pep Guardiola cũng gia nhập cuộc đua.
+![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) Man City muốn có Gavi
+Báo chí Anh và Tây Ban Nha đồng loạt đưa tin, Man City có tham vọng trẻ hóa đội hình. Sau Julian Alvarez và Erling Haaland, Gavi có thể là gương mặt thứ ba cập bến Etihad.
+Man City sẵn sàng chia tay Ilkay Gundogan - người chỉ còn 1 năm hợp đồng. Ngoài ra, nhà vô địch Premier League cũng không loại trừ khả năng Bernardo Silva nếu nhận được đề nghị hợp lý.
+Gavi là mẫu tiền vệ toàn diện, bổ sung lý tưởng cho lối chơi dựa trên kiểm soát bóng của Man City. Anh vừa vào sân hiệp hai trận đấu giữa Tây Ban Nha và Czech, đóng vai trò khởi xướng cho màn phối hợp gần 20 đường chuyền trước khi Sarabia ấn định chiến thắng 2-0.
+Hợp đồng của Gavi với Barca còn thời hạn một năm và gã khổng lồ xứ Catalunya gặp trở ngại trong việc gia hạn. Trước Man City, các đội Liverpool và MU cũng muốn kích hoạt điều khoản phá vỡ hợp đồng của cầu thủ sinh năm 2004, có giá 50 triệu euro.
+**Barca tiếp cận Nahuel Molina**
+[**Barcelona**](https://vietnamnet.vn/barcelona-tag15651866867909596045.html) quyết định tiếp cận Nahuel Molina, mục tiêu hàng đầu mà HLV Xavi Hernandez muốn có để bổ sung cho hành lang phải.
+![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) Barca chọn Nahuel cho cánh phải
+Cánh phải Barca hiện không chắc chắn, khi tương lai Dani Alves chưa rõ ràng và Sergino Dest nằm ngoài kế hoạch của Xavi.
+Giải pháp mà Barca tính đến là bán Dest (MU và Chelsea liên hệ) và dùng số tiền này chiêu mộ Nahuel Molina - ngôi sao bóng đá quốc tế người Argentina vừa có mùa giải nổi bật cùng Udinese.
+Nahuel Molina - tác giả 8 bàn thắng và 5 pha kiến tạo - muốn rời Udinese để đến môi trường lớn hơn trước khi dự World Cup 2022. Thời gian qua, anh có những cuộc liên hệ cùng Juventus nhưng chưa đưa ra quyết định chính thức.
+Với sự quan tâm từ Barca, Nahuel Molina có thêm lựa chọn mới. Đặc biệt, sân Nou Camp là môi trường phù hợp với nhiều cầu thủ Argentina.
+**Kim Ngọc**
+[![‘Bom tấn’ Darwin Nunez bay đến Anh, ký 6 năm Liverpool](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html)](https://vietnamnet.vn/bom-tan-darwin-nunez-bay-den-anh-ky-6-nam-liverpool-2029572.html)
+### [‘Bom tấn’ Darwin Nunez bay đến Anh, ký 6 năm Liverpool](https://vietnamnet.vn/bom-tan-darwin-nunez-bay-den-anh-ky-6-nam-liverpool-2029572.html)
+Chân sút Uruguay, Darwin Nunez đáp chuyến bay đến Anh vào hôm nay, đặt bút ký hợp đồng 6 năm với Liverpool trong sự ngậm ngùi của MU.
+[![MU hạn chót ký De Jong, PSG vội giữ Messi](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html)](https://vietnamnet.vn/tin-chuyen-nhuong-13-6-mu-han-chot-ky-de-jong-psg-voi-giu-messi-2029473.html)
+### [MU hạn chót ký De Jong, PSG vội giữ Messi](https://vietnamnet.vn/tin-chuyen-nhuong-13-6-mu-han-chot-ky-de-jong-psg-voi-giu-messi-2029473.html)
+MU hạn chót ký De Jong tuần này, PSG giữ Messi thêm mùa thứ 3, Tchouameni ‘lên đời’ sau khi ký 6 năm Real Madrid là những tin chuyển nhượng mới nhất hôm nay,
+[![Pogba ký 4 năm Juventus, lương cao nhất đội](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html)](https://vietnamnet.vn/pogba-ky-4-nam-juventus-luong-cao-nhat-doi-2029479.html)
+### [Pogba ký 4 năm Juventus, lương cao nhất đội](https://vietnamnet.vn/pogba-ky-4-nam-juventus-luong-cao-nhat-doi-2029479.html)
+Juventus được loan báo chi ra 80 triệu euro để đưa Paul Pogba trở lại Turin từ MU, với hợp đồng có thời hạn 4 năm.
+##  Có thể bạn quan tâm 
+[ ![Ông Lê Hồng Minh: Ai cũng nói về AI, nhưng việc sử dụng nó mới chỉ bắt đầu](https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/6/6/ong-le-hong-minh-ai-cung-noi-ve-ai-nhung-viec-su-dung-no-moi-chi-bat-dau-801.jpg?width=260&s=VjCHUd7Ox_o0iZ9Qy6__hA) ](https://vietnamnet.vn/ong-le-hong-minh-ai-cung-noi-ve-ai-nhung-viec-su-dung-no-moi-chi-bat-dau-2523253.html "Ông Lê Hồng Minh: Ai cũng nói về AI, nhưng việc sử dụng nó mới chỉ bắt đầu")
+###  [ Ông Lê Hồng Minh: Ai cũng nói về AI, nhưng việc sử dụng nó mới chỉ bắt đầu ](https://vietnamnet.vn/ong-le-hong-minh-ai-cung-noi-ve-ai-nhung-viec-su-dung-no-moi-chi-bat-dau-2523253.html#vnn_source=chitiet&vnn_medium=box_duocquantam1 "Ông Lê Hồng Minh: Ai cũng nói về AI, nhưng việc sử dụng nó mới chỉ bắt đầu")
+[ ![Dự báo thời tiết 8/6/2026: Miền Bắc nắng oi, chiều tối không khí lạnh về gây mưa lớn](https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/6/7/2026-mien-bac-nang-oi-chieu-toi-khong-khi-lanh-ve-gay-mua-lon-2050.jpg?width=260&s=kPGkLUIcalI1F83AbtYJIA) ](https://vietnamnet.vn/du-bao-thoi-tiet-8-6-2026-mien-bac-nang-oi-chieu-toi-khong-khi-lanh-ve-gay-mua-lon-2522236.html "Dự báo thời tiết 8/6/2026: Miền Bắc nắng oi, chiều tối không khí lạnh về gây mưa lớn")
+###  [ Dự báo thời tiết 8/6/2026: Miền Bắc nắng oi, chiều tối không khí lạnh về gây mưa lớn ](https://vietnamnet.vn/du-bao-thoi-tiet-8-6-2026-mien-bac-nang-oi-chieu-toi-khong-khi-lanh-ve-gay-mua-lon-2522236.html#vnn_source=chitiet&vnn_medium=box_duocquantam2 "Dự báo thời tiết 8/6/2026: Miền Bắc nắng oi, chiều tối không khí lạnh về gây mưa lớn")
+[ ![J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử](https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/6/8/jt-181.jpg?width=260&s=YSqQlEN3cM23y2dkGu00Ew) ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-co-hoi-lich-su-2523585.html "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+###  [ J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-co-hoi-lich-su-2523585.html#vnn_source=chitiet&vnn_medium=box_duocquantam3 "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+[ ![Bác sĩ và nghìn lẻ tình huống khó nói: 'Chúng tôi đã cố hết sức'](https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/6/7/cap-cuu-1558.png?width=260&s=x2_xJ8sohBRkDWbH_a2A8A) ](https://vietnamnet.vn/bac-si-va-nghin-le-tinh-huong-kho-noi-chung-toi-da-co-het-suc-2517687.html "Bác sĩ và nghìn lẻ tình huống khó nói: 'Chúng tôi đã cố hết sức'")
+###  [ Bác sĩ và nghìn lẻ tình huống khó nói: 'Chúng tôi đã cố hết sức' ](https://vietnamnet.vn/bac-si-va-nghin-le-tinh-huong-kho-noi-chung-toi-da-co-het-suc-2517687.html#vnn_source=chitiet&vnn_medium=box_duocquantam4 "Bác sĩ và nghìn lẻ tình huống khó nói: 'Chúng tôi đã cố hết sức'")
+[ ![](https://static.vnncdn.net/v1/icon/icon-pre-bule-sm.png) QUAY LẠI TRANG CHỦ ](https://vietnamnet.vn/ "Quay lại trang chủ")
+  * ###  [ De Jong đến MU với 2 lời hứa quan trọng của Erik ten Hag ](https://vietnamnet.vn/de-jong-den-mu-voi-2-loi-hua-quan-trong-cua-erik-ten-hag-2029558.html "De Jong đến MU với 2 lời hứa quan trọng của Erik ten Hag")
+  * ###  [ Vắng Ronaldo, Bồ Đào Nha trắng tay trước Thụy Sĩ ](https://vietnamnet.vn/vang-ronaldo-bo-dao-nha-trang-tay-truoc-thuy-si-2029532.html "Vắng Ronaldo, Bồ Đào Nha trắng tay trước Thụy Sĩ")
+  * ###  [ Lịch thi đấu bóng đá hôm nay 13/6 ](https://vietnamnet.vn/lich-thi-dau-bong-da-hom-nay-13-6-2029441.html "Lịch thi đấu bóng đá hôm nay 13/6")
+
+Bình luận  ![](https://static.vnncdn.net/v1/icon/chat\(1\).svg)
+[ ](javasctip:void\(0\); "Chia sẻ bài viết lên facebook") [ ](javasctip:void\(0\); "Chia sẻ bài viết lên zalo") [ ](javasctip:void\(0\); "Chia sẻ bài viết lên email") [ Sao chép liên kết ](javasctip:void\(0\); "Sao chép liên kết") [ ](javasctip:void\(0\); "Lưu bài viết")
+  * Xem thêm về:
+  * ###  [ Barcelona ](https://vietnamnet.vn/barcelona-tag15651866867909596045.html "Barcelona")
+  * ###  [ MU ](https://vietnamnet.vn/mu-tag14758492395684540921.html "MU")
+  * ###  [ Man City ](https://vietnamnet.vn/man-city-tag1071014756594364326.html "Man City")
+  * ###  [ Gavi ](https://vietnamnet.vn/gavi-tag11746823090804527625.html "Gavi")
+  * ###  [ Nahuel Molina ](https://vietnamnet.vn/nahuel-molina-tag16615341481153689978.html "Nahuel Molina")
+  * ###  [ Marco Asensio ](https://vietnamnet.vn/marco-asensio-tag11397902130205291208.html "Marco Asensio")
+
+##  Tin cùng chuyên mục 
+[ ![VTV ra mắt kênh thể thao chuyên biệt](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ![icon avatar](https://static-images.vnncdn.net/files/2023/4/8/video-icon-avt.svg) ](https://vietnamnet.vn/vtv-ra-mat-kenh-the-thao-chuyen-biet-2523797.html "VTV ra mắt kênh thể thao chuyên biệt")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ VTV ra mắt kênh thể thao chuyên biệt ](https://vietnamnet.vn/vtv-ra-mat-kenh-the-thao-chuyen-biet-2523797.html "VTV ra mắt kênh thể thao chuyên biệt")
+Đài Truyền hình Việt Nam (VTV) ra mắt Kênh Thể thao quốc gia VTV6 hoàn toàn miễn phí. 
+[ ![Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-8-6-mu-mua-lewis-hall-man-city-ky-balde-2523798.html "Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde")
+[Tin chuyển nhượng](https://vietnamnet.vn/the-thao/tin-chuyen-nhuong "Tin chuyển nhượng")
+###  [ Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-8-6-mu-mua-lewis-hall-man-city-ky-balde-2523798.html "Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde")
+Tin tức về chuyển nhượng 8/6: MU muốn chiêu mộ Lewis Hall, Man City đàm phán mua Alejandro Balde, Atletico Madrid chi đậm cho Igor Thiago. 
+[ ![Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ![icon avatar](https://static-images.vnncdn.net/files/2023/4/8/video-icon-avt.svg) ](https://vietnamnet.vn/bo-ba-hao-thu-giup-tuyen-viet-nam-giu-cup-vo-dich-dong-nam-a-2523539.html "Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á ](https://vietnamnet.vn/bo-ba-hao-thu-giup-tuyen-viet-nam-giu-cup-vo-dich-dong-nam-a-2523539.html "Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á")
+HLV Kim Sang Sik đặt sự kỳ vọng vào nhiều cầu thủ ở tuyển Việt Nam trong hành trình bảo vệ ngôi vô địch ASEAN Cup. 
+[ ![Argentina bảo vệ ngôi vương World Cup: Messi chờ vượt Maradona](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/argentina-bao-ve-world-cup-2026-messi-muon-vuot-maradona-2523722.html "Argentina bảo vệ ngôi vương World Cup: Messi chờ vượt Maradona")
+[World Cup](https://vietnamnet.vn/the-thao/world-cup "World Cup")
+###  [ Argentina bảo vệ ngôi vương World Cup: Messi chờ vượt Maradona ](https://vietnamnet.vn/argentina-bao-ve-world-cup-2026-messi-muon-vuot-maradona-2523722.html "Argentina bảo vệ ngôi vương World Cup: Messi chờ vượt Maradona")
+Argentina bước vào World Cup 2026 với vị thế ĐKVĐ, trong khi Lionel Messi đã quen cuộc sống Mỹ đang chờ cơ hội vượt qua Diego Maradona. 
+[ ![Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/mourinho-pha-dam-mu-vu-chuyen-nhuong-mateus-fernandes-2523052.html "Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes ](https://vietnamnet.vn/mourinho-pha-dam-mu-vu-chuyen-nhuong-mateus-fernandes-2523052.html "Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes")
+Jose Mourinho có thể phá hỏng kế hoạch tăng cường lực lượng của MU hè này, khi nhắm đến tiền vệ Mateus Fernandes cho Real Madrid. 
+[ ![Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/mbappe-noi-gian-tuyen-phap-co-bien-truoc-world-cup-2026-2523590.html "Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026")
+[World Cup](https://vietnamnet.vn/the-thao/world-cup "World Cup")
+###  [ Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026 ](https://vietnamnet.vn/mbappe-noi-gian-tuyen-phap-co-bien-truoc-world-cup-2026-2523590.html "Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026")
+Đội tuyển Pháp chưa hết những căng thẳng trước World Cup 2026, khi Kylian Mbappe bất bình vì hình ảnh của anh bị liên đoàn sử dụng cho công ty cá cược. 
+[ ![J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ![icon avatar](https://static-images.vnncdn.net/files/2023/4/8/video-icon-avt.svg) ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-buoc-lich-su-2523585.html "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-buoc-lich-su-2523585.html "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+J.T. Poston gây bất ngờ khi vô địch Memorial Tournament 2026, trong lúc số 1 thế giới Scottie Scheffler lỡ cơ hội tiếp bước lịch sử Tiger Woods. 
+[ ![Lịch thi đấu bóng đá hôm nay 8/6: U19 Việt Nam chờ vé bán kết](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/lich-thi-dau-bong-da-hom-nay-8-6-2523500.html "Lịch thi đấu bóng đá hôm nay 8/6: U19 Việt Nam chờ vé bán kết")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ Lịch thi đấu bóng đá hôm nay 8/6: U19 Việt Nam chờ vé bán kết ](https://vietnamnet.vn/lich-thi-dau-bong-da-hom-nay-8-6-2523500.html "Lịch thi đấu bóng đá hôm nay 8/6: U19 Việt Nam chờ vé bán kết")
+Lịch thi đấu bóng đá hôm nay 8/6/2026 - Cung cấp lịch thi đấu bóng đá trong nước và quốc tế hấp dẫn đêm nay, rạng sáng mai. 
+[ ![Florentino Perez tái đắc cử chủ tịch Real Madrid, gọi tên Mourinho](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/florentino-perez-tai-dac-cu-chu-tich-real-madrid-goi-ten-mourinho-2523586.html "Florentino Perez tái đắc cử chủ tịch Real Madrid, gọi tên Mourinho")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ Florentino Perez tái đắc cử chủ tịch Real Madrid, gọi tên Mourinho ](https://vietnamnet.vn/florentino-perez-tai-dac-cu-chu-tich-real-madrid-goi-ten-mourinho-2523586.html "Florentino Perez tái đắc cử chủ tịch Real Madrid, gọi tên Mourinho")
+Cuộc bầu cử chủ tịch Real Madrid kết thúc với chiến thắng áp đảo của Florentino Perez trước đối thủ Enrique Riquelme, công bố Jose Mourinho làm HLV. 
+[ ![Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/tan-binh-cua-mu-duoc-goi-gap-len-tuyen-brazil-du-world-cup-2026-2523049.html "Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026")
+[Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+###  [ Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026 ](https://vietnamnet.vn/tan-binh-cua-mu-duoc-goi-gap-len-tuyen-brazil-du-world-cup-2026-2523049.html "Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026")
+Ngay sau khi đạt thỏa thuận chuyển nhượng đến MU, tiền vệ Ederson được HLV Ancelotti triệu tập lên tuyển Brazil tham dự World Cup 2026, thay cho Wesley bị chấn thương. 
+Xem thêm tin ![icon loading](https://static.vnncdn.net/v1/icon/infonet/loading.svg)
+##  Tin mới 
+[ ![Triều Tiên đón tiếp trọng thể ông Tập Cận Bình tại quảng trường Kim Nhật Thành](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/trieu-tien-don-tiep-trong-the-ong-tap-can-binh-tai-quang-truong-kim-nhat-thanh-2523822.html "Triều Tiên đón tiếp trọng thể ông Tập Cận Bình tại quảng trường Kim Nhật Thành")
+[Thế giới](https://vietnamnet.vn/the-gioi "Thế giới")
+###  [ Triều Tiên đón tiếp trọng thể ông Tập Cận Bình tại quảng trường Kim Nhật Thành ](https://vietnamnet.vn/trieu-tien-don-tiep-trong-the-ong-tap-can-binh-tai-quang-truong-kim-nhat-thanh-2523822.html "Triều Tiên đón tiếp trọng thể ông Tập Cận Bình tại quảng trường Kim Nhật Thành")
+Chủ tịch Trung Quốc Tập Cận Bình đã được tiếp đón long trọng khi ông tới Triều Tiên sáng nay (8/6) trong chuyến thăm đầu tiên sau gần 7 năm. 
+[ ![Khi phát triển xanh trở thành một lựa chọn văn hóa](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/khi-phat-trien-xanh-tro-thanh-mot-lua-chon-van-hoa-2523829.html "Khi phát triển xanh trở thành một lựa chọn văn hóa")
+[Tuần Việt Nam](https://vietnamnet.vn/tuan-viet-nam "Tuần Việt Nam")
+###  [ Khi phát triển xanh trở thành một lựa chọn văn hóa ](https://vietnamnet.vn/khi-phat-trien-xanh-tro-thanh-mot-lua-chon-van-hoa-2523829.html "Khi phát triển xanh trở thành một lựa chọn văn hóa")
+Phát triển xanh không chỉ là câu chuyện của công nghệ sạch, năng lượng tái tạo hay những cam kết giảm phát thải. 
+[ ![Triệt phá nhóm 'Ngọc Sùi' ép doanh nhân chuyển 6,8 tỷ đồng](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/bat-nhom-ngoc-sui-ep-doanh-nhan-chuyen-6-8-ty-dong-o-ha-noi-2523817.html "Triệt phá nhóm 'Ngọc Sùi' ép doanh nhân chuyển 6,8 tỷ đồng")
+[Pháp luật](https://vietnamnet.vn/thoi-su/phap-luat "Pháp luật")
+###  [ Triệt phá nhóm 'Ngọc Sùi' ép doanh nhân chuyển 6,8 tỷ đồng ](https://vietnamnet.vn/bat-nhom-ngoc-sui-ep-doanh-nhan-chuyen-6-8-ty-dong-o-ha-noi-2523817.html "Triệt phá nhóm 'Ngọc Sùi' ép doanh nhân chuyển 6,8 tỷ đồng")
+Công an Hà Nội đã khởi tố Bùi Huỳnh Bính Ngọc (tức “Ngọc Sùi”) cùng các đồng phạm để điều tra về hành vi cưỡng đoạt tài sản. Nhóm này bị cáo buộc sử dụng nhiều biện pháp gây sức ép, buộc một doanh nhân chuyển tổng số tiền 6,8 tỷ đồng. 
+[ ![Japfa Việt Nam - Hành trình 30 năm đổi mới và phát triển bền vững](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/japfa-viet-nam-hanh-trinh-30-nam-doi-moi-va-phat-trien-ben-vung-2523815.html "Japfa Việt Nam - Hành trình 30 năm đổi mới và phát triển bền vững")
+[Thị trường](https://vietnamnet.vn/kinh-doanh/thi-truong "Thị trường")
+###  [ Japfa Việt Nam - Hành trình 30 năm đổi mới và phát triển bền vững ](https://vietnamnet.vn/japfa-viet-nam-hanh-trinh-30-nam-doi-moi-va-phat-trien-ben-vung-2523815.html "Japfa Việt Nam - Hành trình 30 năm đổi mới và phát triển bền vững")
+Ngày 4/06 tại TP.HCM, Japfa Việt Nam kỷ niệm 30 năm thành lập, khẳng định cam kết thúc đẩy ngành chăn nuôi phát triển hiện đại và bền vững, đóng góp vào sự thịnh vượng chung của Việt Nam. 
+[ ![Công nghệ tàng hình trong tàu chiến hiện đại năm 2026](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/cong-nghe-tang-hinh-trong-tau-chien-hien-dai-nam-2026-2519747.html "Công nghệ tàng hình trong tàu chiến hiện đại năm 2026")
+[Công nghệ](https://vietnamnet.vn/cong-nghe "Công nghệ")
+###  [ Công nghệ tàng hình trong tàu chiến hiện đại năm 2026 ](https://vietnamnet.vn/cong-nghe-tang-hinh-trong-tau-chien-hien-dai-nam-2026-2519747.html "Công nghệ tàng hình trong tàu chiến hiện đại năm 2026")
+Công nghệ tàng hình tàu chiến giúp giảm phát hiện radar, hồng ngoại, âm thanh. Tiêu biểu cho lớp tàu này là Zumwalt, Type 055, Visby và La Fayette. 
+Xem thêm tin ![icon loading](https://static.vnncdn.net/v1/icon/infonet/loading.svg)
+##  [ Bóng đá quốc tế ](https://vietnamnet.vn/the-thao/bong-da-quoc-te "Bóng đá quốc tế")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/tan-binh-cua-mu-duoc-goi-gap-len-tuyen-brazil-du-world-cup-2026-2523049.html "Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026")
+###  [ Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026 ](https://vietnamnet.vn/tan-binh-cua-mu-duoc-goi-gap-len-tuyen-brazil-du-world-cup-2026-2523049.html "Tân binh của MU được gọi gấp lên tuyển Brazil dự World Cup 2026")
+Ngay sau khi đạt thỏa thuận chuyển nhượng đến MU, tiền vệ Ederson được HLV Ancelotti triệu tập lên tuyển Brazil tham dự World Cup 2026, thay cho Wesley bị chấn thương. 
+###  [ Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes ](https://vietnamnet.vn/mourinho-pha-dam-mu-vu-chuyen-nhuong-mateus-fernandes-2523052.html "Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes")
+###  [ Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026 ](https://vietnamnet.vn/mbappe-noi-gian-tuyen-phap-co-bien-truoc-world-cup-2026-2523590.html "Mbappe nổi giận, tuyển Pháp lại nóng trước World Cup 2026")
+###  [ Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-8-6-mu-mua-lewis-hall-man-city-ky-balde-2523798.html "Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde")
+##  [ Bóng đá Việt Nam ](https://vietnamnet.vn/the-thao/bong-da-viet-nam "Bóng đá Việt Nam")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ![icon avatar](https://static-images.vnncdn.net/files/2023/4/8/video-icon-avt.svg) ](https://vietnamnet.vn/bo-ba-hao-thu-giup-tuyen-viet-nam-giu-cup-vo-dich-dong-nam-a-2523539.html "Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á")
+###  [ Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á ](https://vietnamnet.vn/bo-ba-hao-thu-giup-tuyen-viet-nam-giu-cup-vo-dich-dong-nam-a-2523539.html "Bộ ba 'hảo thủ' giúp tuyển Việt Nam giữ Cúp vô địch Đông Nam Á")
+HLV Kim Sang Sik đặt sự kỳ vọng vào nhiều cầu thủ ở tuyển Việt Nam trong hành trình bảo vệ ngôi vô địch ASEAN Cup. 
+###  [ Thua U19 Indonesia, U19 Việt Nam còn bao nhiêu cơ hội đi tiếp? ](https://vietnamnet.vn/thua-u19-indonesia-u19-viet-nam-con-bao-nhieu-co-hoi-di-tiep-2523611.html "Thua U19 Indonesia, U19 Việt Nam còn bao nhiêu cơ hội đi tiếp?") [ ![icon binh luan](https://static.vnncdn.net/v1/icon/binh-luan.svg) 1 ](https://vietnamnet.vn/thua-u19-indonesia-u19-viet-nam-con-bao-nhieu-co-hoi-di-tiep-2523611.html#comment)
+###  [ U19 Việt Nam thua Indonesia: Một bài học đắt giá ](https://vietnamnet.vn/u19-viet-nam-thua-indonesia-mot-bai-hoc-rat-dat-gia-2523614.html "U19 Việt Nam thua Indonesia: Một bài học đắt giá") [ ![icon binh luan](https://static.vnncdn.net/v1/icon/binh-luan.svg) 6 ](https://vietnamnet.vn/u19-viet-nam-thua-indonesia-mot-bai-hoc-rat-dat-gia-2523614.html#comment)
+###  [ Trọng tài gây tranh cãi, U19 Việt Nam thua Indonesia phút bù giờ ](https://vietnamnet.vn/ket-qua-bong-da-u19-viet-nam-vs-u19-indonesia-u19-dong-nam-a-2026-2523476.html "Trọng tài gây tranh cãi, U19 Việt Nam thua Indonesia phút bù giờ") [ ![icon binh luan](https://static.vnncdn.net/v1/icon/binh-luan.svg) 4 ](https://vietnamnet.vn/ket-qua-bong-da-u19-viet-nam-vs-u19-indonesia-u19-dong-nam-a-2026-2523476.html#comment)
+##  [ Hậu trường ](https://vietnamnet.vn/the-thao/hau-truong "Hậu trường")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/messi-khong-o-cung-phong-voi-de-paul-de-giu-van-may-world-cup-2521979.html "Messi không ở cùng phòng với De Paul để giữ... vận may World Cup")
+###  [ Messi không ở cùng phòng với De Paul để giữ... vận may World Cup ](https://vietnamnet.vn/messi-khong-o-cung-phong-voi-de-paul-de-giu-van-may-world-cup-2521979.html "Messi không ở cùng phòng với De Paul để giữ... vận may World Cup")
+Messi cùng ‘vệ sĩ’ De Paul đi máy bay riêng đến hội quân của tuyển Argentina chuẩn bị cho World Cup 2026, nhưng 2 anh em không ở chung phòng. 
+###  [ Pep Guardiola nhận nhiệm vụ mới ngay khi rời Man City ](https://vietnamnet.vn/pep-guardiola-nhan-nhiem-vu-moi-ngay-khi-roi-man-city-2520867.html "Pep Guardiola nhận nhiệm vụ mới ngay khi rời Man City")
+###  [ Dàn WAGs cực xinh hâm nóng chung kết Champions League ](https://vietnamnet.vn/dan-wags-cuc-xinh-ham-nong-chung-ket-champions-league-2520864.html "Dàn WAGs cực xinh hâm nóng chung kết Champions League")
+###  [ Raheem Sterling bị bắt ](https://vietnamnet.vn/raheem-sterling-bi-bat-2520322.html "Raheem Sterling bị bắt")
+##  [ Các môn khác ](https://vietnamnet.vn/the-thao/cac-mon-khac "Các môn khác")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ![icon avatar](https://static-images.vnncdn.net/files/2023/4/8/video-icon-avt.svg) ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-buoc-lich-su-2523585.html "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+###  [ J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử ](https://vietnamnet.vn/j-t-poston-vo-dich-memorial-tournament-scheffler-lo-buoc-lich-su-2523585.html "J.T. Poston vô địch Memorial Tournament, Scheffler lỡ cơ hội lịch sử")
+J.T. Poston gây bất ngờ khi vô địch Memorial Tournament 2026, trong lúc số 1 thế giới Scottie Scheffler lỡ cơ hội tiếp bước lịch sử Tiger Woods. 
+###  [ Zverev thắng nghẹt thở chung kết Roland Garros, lần đầu vô địch Grand Slam ](https://vietnamnet.vn/zverev-thang-nghet-tho-chung-ket-roland-garros-lan-dau-vo-dich-grand-slam-2523599.html "Zverev thắng nghẹt thở chung kết Roland Garros, lần đầu vô địch Grand Slam") [ ![icon binh luan](https://static.vnncdn.net/v1/icon/binh-luan.svg) 1 ](https://vietnamnet.vn/zverev-thang-nghet-tho-chung-ket-roland-garros-lan-dau-vo-dich-grand-slam-2523599.html#comment)
+###  [ Tuyển bóng chuyền nữ Việt Nam thắng Hong Kong 3-0 ở giải châu Á ](https://vietnamnet.vn/tuyen-bong-chuyen-nu-viet-nam-thang-hong-kong-3-0-o-giai-chau-a-2523432.html "Tuyển bóng chuyền nữ Việt Nam thắng Hong Kong 3-0 ở giải châu Á")
+###  [ Mirra Andreeva vô địch Roland Garros: Sức mạnh công chúa nước Nga ](https://vietnamnet.vn/mirra-andreeva-vo-dich-roland-garros-ve-dep-cong-chua-nuoc-nga-2523460.html "Mirra Andreeva vô địch Roland Garros: Sức mạnh công chúa nước Nga")
+##  [ Tin chuyển nhượng ](https://vietnamnet.vn/the-thao/tin-chuyen-nhuong "Tin chuyển nhượng")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-8-6-mu-mua-lewis-hall-man-city-ky-balde-2523798.html "Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde")
+###  [ Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-8-6-mu-mua-lewis-hall-man-city-ky-balde-2523798.html "Tin tức về chuyển nhượng 8/6: MU mua Lewis Hall, Man City ký Balde")
+Tin tức về chuyển nhượng 8/6: MU muốn chiêu mộ Lewis Hall, Man City đàm phán mua Alejandro Balde, Atletico Madrid chi đậm cho Igor Thiago. 
+###  [ Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes ](https://vietnamnet.vn/mourinho-pha-dam-mu-vu-chuyen-nhuong-mateus-fernandes-2523052.html "Mourinho phá đám MU vụ chuyển nhượng Mateus Fernandes")
+###  [ Tin tức về chuyển nhượng 7/6: MU chốt Romero, Arsenal lấy Goretzka ](https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-7-6-mu-ky-romero-arsenal-lay-goretzka-2523479.html "Tin tức về chuyển nhượng 7/6: MU chốt Romero, Arsenal lấy Goretzka")
+###  [ Mourinho kéo Bernardo Silva về Real Madrid ](https://vietnamnet.vn/hlv-jose-mourinho-keo-bernardo-silva-ve-real-madrid-2523415.html "Mourinho kéo Bernardo Silva về Real Madrid")
+##  [ Tường thuật trực tiếp ](https://vietnamnet.vn/the-thao/xem-truc-tiep-bong-da "Tường thuật trực tiếp")
+[ ![](https://vietnamnet.vn/tin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html) ](https://vietnamnet.vn/ket-qua-bong-da-u19-viet-nam-vs-u19-indonesia-u19-dong-nam-a-2026-2523476.html "Trọng tài gây tranh cãi, U19 Việt Nam thua Indonesia phút bù giờ")
+###  [ Trọng tài gây tranh cãi, U19 Việt Nam thua Indonesia phút bù giờ ](https://vietnamnet.vn/ket-qua-bong-da-u19-viet-nam-vs-u19-indonesia-u19-dong-nam-a-2026-2523476.html "Trọng tài gây tranh cãi, U19 Việt Nam thua Indonesia phút bù giờ") [ ![icon binh luan](https://static.vnncdn.net/v1/icon/binh-luan.svg) 4 ](https://vietnamnet.vn/ket-qua-bong-da-u19-viet-nam-vs-u19-indonesia-u19-dong-nam-a-2026-2523476.html#comment)
+U19 Việt Nam thua 1-2 trước U19 Indonesia bởi quả phạt đền gây tranh cãi ở cuối trận, qua đó mất ngôi đầu bảng A giải U19 Đông Nam Á 2026. 
+###  [ Vòng 26 V-League: Đà Nẵng thoát hiểm, Becamex TPHCM xuống hạng ](https://vietnamnet.vn/vong-26-v-league-da-nang-thoat-hiem-becamex-tphcm-xuong-hang-2523465.html "Vòng 26 V-League: Đà Nẵng thoát hiểm, Becamex TPHCM xuống hạng")
+###  [ Link xem trực tiếp bóng đá U19 Việt Nam vs U19 Indonesia, 20h hôm nay 7/6 ](https://vietnamnet.vn/link-xem-truc-tiep-bong-da-u19-viet-nam-vs-u19-indonesia-20h-hom-nay-7-6-2523474.html "Link xem trực tiếp bóng đá U19 Việt Nam vs U19 Indonesia, 20h hôm nay 7/6")
+###  [ U19 Thái Lan thắng đậm Singapore, đòi lại ngôi đầu bảng ](https://vietnamnet.vn/ket-qua-bong-da-u19-thai-lan-vs-u19-singapore-u19-dong-nam-a-2026-2523102.html "U19 Thái Lan thắng đậm Singapore, đòi lại ngôi đầu bảng")
+  * [Chính trị](https://vietnamnet.vn/chinh-tri "Chính trị")
+  * [Thời sự](https://vietnamnet.vn/thoi-su "Thời sự")
+  * [Kinh doanh](https://vietnamnet.vn/kinh-doanh "Kinh doanh")
+  * [Dân tộc và Tôn giáo](https://vietnamnet.vn/dan-toc-ton-giao "Dân tộc và Tôn giáo")
+  * [Thể thao](https://vietnamnet.vn/the-thao "Thể thao")
+  * [Giáo dục](https://vietnamnet.vn/giao-duc "Giáo dục")
+  * [Thế giới](https://vietnamnet.vn/the-gioi "Thế giới")
+  * [Đời sống](https://vietnamnet.vn/doi-song "Đời sống")
+  * [Văn hóa - Giải trí](https://vietnamnet.vn/van-hoa-giai-tri "Văn hóa - Giải trí")
+  * [Sức khỏe](https://vietnamnet.vn/suc-khoe "Sức khỏe")
+  * [Công nghệ](https://vietnamnet.vn/cong-nghe "Công nghệ")
+  * [Ô tô xe máy](https://vietnamnet.vn/oto-xe-may "Ô tô xe máy")
+  * [Du lịch](https://vietnamnet.vn/du-lich "Du lịch")
+  * [Bất động sản](https://vietnamnet.vn/bat-dong-san "Bất động sản")
+  * [Bạn đọc](https://vietnamnet.vn/ban-doc "Bạn đọc")
+  * [Tuần Việt Nam](https://vietnamnet.vn/tuan-viet-nam "Tuần Việt Nam")
+  * [Công nghiệp hỗ trợ](https://vietnamnet.vn/hop-tac/cong-nghiep-ho-tro "Công nghiệp hỗ trợ")
+  * [Giảm nghèo bền vững](https://giamngheobenvung.vietnamnet.vn "Giảm nghèo bền vững")
+  * [Nông thôn mới](https://vietnamnet.vn/nong-thon-moi "Nông thôn mới")
+  * [Dân tộc thiểu số và miền núi](https://vietnamnet.vn/dan-toc-thieu-so-va-mien-nui "Dân tộc thiểu số và miền núi")
+  * [Nội dung chuyên đề](https://vietnamnet.vn/noi-dung-chuyen-de "Nội dung chuyên đề")
+  * [English](https://vietnamnet.vn/en "English")
+  * [Hồ sơ](https://vietnamnet.vn/ho-so "Hồ sơ")
+  * [Ảnh](https://vietnamnet.vn/anh "Ảnh")
+  * [Video](https://vietnamnet.vn/video "Video")
+  * [Multimedia](https://vietnamnet.vn/multimedia "Multimedia")
+  * [Podcast](https://vietnamnet.vn/podcast "Podcast")
+  * [ ![Vietnamnet Premium](https://static.vnncdn.net/v1/logo/logo-premium.svg) ](https://vietnamnet.vn/premium "Vietnamnet Premium")
+  * [24h qua](https://vietnamnet.vn/tin-tuc-24h "24h qua")
+
+  * [Tuyến bài](https://vietnamnet.vn/tuyen-bai)
+  * [Sự kiện](https://vietnamnet.vn/su-kien)
+
+[ ![VietNamNet](https://static.vnncdn.net/v1/logo/logoVietnamNet.svg) ](https://vietnamnet.vn/)
+  * Cơ quan chủ quản: Bộ Dân tộc và Tôn giáo 
+  * Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025 
+  * Tổng biên tập: Nguyễn Văn Bá 
+  * [Liên hệ tòa soạn](https://vietnamnet.vn/thong-tin-toa-soan "Liên hệ tòa soạn")
+  * Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình Nghệ, phường Cầu Giấy, TP. Hà Nội. 
+  * Điện thoại: **02439369898** - Hotline: **0923457788**
+  * Email: vietnamnet@vietnamnet.vn 
+  * © 1997 Báo VietNamNet. All rights reserved. Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet. 
+
+  * [Liên hệ quảng cáo](https://vads.vn/#vnn_source=trangchu&vnn_medium=menu-bottom "Liên hệ quảng cáo")
+  * Công ty Cổ phần Truyền thông VietNamNet 
+  * Hotline: 0919405885 (Hà Nội) - 0919435885 (Tp.HCM)
+  * Email: contact@vietnamnet.vn 
+  * Báo giá: <http://vads.vn>
+  * Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn 
+
+  * Theo dõi VietNamNet trên 
+
+  * [ ![VietNamNet Facebook](https://static.vnncdn.net/v1/icon/facebook-black.svg) ](https://www.facebook.com/vietnamnet.vn "VietNamNet Facebook")
+  * [ ![VietNamNet Youtube](https://static.vnncdn.net/v1/icon/youtube-black.svg) ](https://www.youtube.com/c/B%C3%A1oVietNamNetTV "VietNamNet Youtube")
+  * [ ![VietNamNet Tiktok](https://static.vnncdn.net/v1/icon/tiktok-black.svg) ](https://www.tiktok.com/@vietnamnet.vn "VietNamNet Tiktok")
+  * [ ![VietNamNet Zalo](https://static.vnncdn.net/v1/icon/zalo-black.svg) ](http://zalo.me/660139855964186242?src=qr "VietNamNet Zalo")
+
+[Tải ứng dụng](https://vietnamnet.vn/download-app) [Độc giả gửi bài](https://vietnamnet.vn/doc-gia-gui-bai) [Tuyển dụng](https://vietnamnet.vn/tuyen-dung)
+![back_to_top](https://static.vnncdn.net/v1/icon/arrow-01.svg)
+![](https://tracking3.vnncdn.net/tracking/detail?id=2029707&w=000003)
+1  / 3 
+![](https://static-images.vnncdn.net/files/publish/2022/6/13/asensio-653.jpg?width=260&s=KpDnCwkREFApPzg2JYp7sA)
+![](https://static-images.vnncdn.net/files/publish/2022/6/13/gavi-czech-654.jpg?width=260&s=y3FUiGzATyB5P1a0IbYfWQ)
+![](https://static-images.vnncdn.net/files/publish/2022/6/13/nahuel-molina-655.jpg?width=260&s=zsl4eQO8GHcBt68ZHTPLZw)
+![](https://track-srv.vietnamnet.vn/jsx/trackingv3/pageview/data.jsx?Url=https%3A%2F%2Fvietnamnet.vn%2Ftin-bong-da-13-6-mu-mua-asensio-man-city-lay-gavi-2029707.html&action=view&randId=8982&domain=vietnamnet.vn&catealias=the-thao&aid=2029707)
