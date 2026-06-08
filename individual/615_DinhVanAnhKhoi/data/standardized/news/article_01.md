@@ -1,0 +1,12 @@
+# Loạt ca sĩ 'dính' chất cấm, ma túy phá hủy não bộ người trẻ ra sao?
+
+**Source:** https://vietnamnet.vn/loat-ca-si-dinh-chat-cam-ma-tuy-pha-huy-nao-bo-nguoi-tre-ra-sao-2518285.html
+**Crawled:** 2026-06-08T19:00:17.182406
+
+---
+
+[![Uống nhầm thuốc cai nghiện ma túy, bé trai 7 tuổi khó thở, nguy kịch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](/uong-nham-thuoc-cai-nghien-ma-tuy-be-trai-7-tuoi-kho-tho-nguy-kich-2082946.html "Uống nhầm thuốc cai nghiện ma túy, bé trai 7 tuổi khó thở, nguy kịch")
+
+[Uống nhầm thuốc cai nghiện ma túy, bé trai 7 tuổi khó thở, nguy kịch](/uong-nham-thuoc-cai-nghien-ma-tuy-be-trai-7-tuoi-kho-tho-nguy-kich-2082946.html "Uống nhầm thuốc cai nghiện ma túy, bé trai 7 tuổi khó thở, nguy kịch")
+
+Tưởng thuốc của người cậu mang về để cai nghiện là nước ngọt, bé trai 7 tuổi đã lấy uống và xuất hiện tình trạng khó thở, lơ mơ.
