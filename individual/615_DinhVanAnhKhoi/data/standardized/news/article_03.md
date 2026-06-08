@@ -1,0 +1,62 @@
+# Báo động tình trạng nghệ sĩ dùng ma túy và những hệ lụy với xã hội
+
+**Source:** https://baolaocai.vn/bao-dong-tinh-trang-nghe-si-dung-ma-tuy-va-nhung-he-luy-voi-xa-hoi-post900028.html
+**Crawled:** 2026-06-08T19:00:18.005168
+
+---
+
+Chỉ trong thời gian ngắn, nhiều ca sĩ và nghệ sĩ nổi tiếng như Chi Dân, Miu Lê và mới đây nhất là ca sĩ Đinh Long Nhật và Sơn Ngọc Minh liên tiếp vướng vào các vụ việc liên quan đến ma túy. Những vụ việc này cho thấy ma túy không còn là hiện tượng cá biệt mà đang trở thành hồi chuông cảnh báo về sự len lỏi ngày càng sâu vào môi trường giải trí.
+
+Trong số những người vừa bị bắt giữ có Đinh Long Nhật, nghệ danh Long Nhật, và ca sĩ Sơn Ngọc Minh. Vụ việc gây chú ý bởi cả hai từng có độ nhận diện nhất định trong showbiz Việt. Long Nhật gắn với dòng nhạc trữ tình, bolero, nhạc quê hương; còn Sơn Ngọc Minh từng là thành viên nhóm nhạc V-Music, một gương mặt quen thuộc với khán giả trẻ giai đoạn đầu thập niên 2010.
+
+Điều khiến dư luận lo ngại không chỉ nằm ở tên tuổi nghệ sĩ vướng lao lý, mà ở chỗ những vụ việc như vậy đang xuất hiện ngày một dày hơn trong giới giải trí. Khi người nổi tiếng liên tục dính chất cấm ma túy, câu chuyện không còn dừng ở sự sa ngã cá nhân, mà trở thành vấn đề của môi trường văn hóa và chuẩn mực xã hội.
+
+Nhiều năm qua, mỗi khi một nghệ sĩ bị phát hiện liên quan ma túy, dư luận lại sốc, thất vọng rồi tranh cãi. Nhưng sau tất cả, dường như cái giá phải trả vẫn chưa đủ mạnh để tạo ra sự răn đe thực sự.
+
+Nghệ sĩ không chỉ bán sản phẩm giải trí. Họ còn bán hình ảnh, lối sống và sức ảnh hưởng. Một ca sĩ, diễn viên hay rapper có thể tác động đến cách ăn mặc, cách nói chuyện, thậm chí cách sống của hàng triệu người trẻ. Vì vậy, khi người nổi tiếng xem thường pháp luật, hệ lụy không dừng ở một cá nhân sa ngã, mà còn tạo ra sự lệch chuẩn trong nhận thức của một bộ phận khán giả trẻ vốn thần tượng họ.
+
+Nhìn vào thực tế hiện nay, rõ ràng showbiz Việt cũng cần những giới hạn đủ rõ ràng. Nghệ sĩ vi phạm pháp luật, đặc biệt với các hành vi liên quan đến ma túy, phải trả giá bằng chính vị trí của họ trong đời sống giải trí.
+
+Công chúng có quyền tẩy chay. Nhưng không thể chỉ trông chờ vào phản ứng tự phát từ dư luận. Các đài truyền hình, nền tảng phát hành, nhãn hàng, đơn vị tổ chức biểu diễn… cũng cần có thái độ rõ ràng với nghệ sĩ vi phạm pháp luật. Không thể hôm nay khán giả phẫn nộ, rồi một thời gian sau lại thấy người đó xuất hiện dày đặc trên gameshow, sân khấu hay quảng cáo.
+
+Một nền giải trí lành mạnh không thể được xây dựng bằng tài năng đơn thuần. Người nghệ sĩ càng nổi tiếng càng phải hiểu rằng sức ảnh hưởng luôn đi kèm trách nhiệm. Công chúng có thể yêu mến một người vì giọng hát hay, diễn xuất tốt, nhưng thứ giữ họ tồn tại lâu dài vẫn là nhân cách và cách sống.
+
+Sáng 31/5, tại chùa Tùng Lâm Ngọc Am (phường Yên Bái), Ban Trị sự Giáo hội Phật giáo Việt Nam tỉnh Lào Cai trang trọng tổ chức Đại lễ Phật đản Phật lịch 2570 - Dương lịch 2026. Đại lễ thu hút đông đảo tăng ni, phật tử và Nhân dân địa phương tham dự, trong không khí trang nghiêm, thành kính và đoàn kết của cộng đồng Phật giáo trên địa bàn.
+
+Tối 30/5, lễ hội pháo hoa quốc tế Đà Nẵng 2026 (DIFF 2026) chính thức khai mạc bên bờ sông Hàn, mở màn cho chuỗi sự kiện kéo dài đến ngày 11/7.
+
+Tối 30/5, đêm chung kết cuộc thi MGI All Stars mùa giải đầu tiên năm 2026 diễn ra tại Thái Lan với sự tranh tài của 56 ứng viên đến từ khắp nơi trên thế giới. Hoa hậu Chuyển giới quốc tế 2018 Hương Giang đại diện Việt Nam tham gia cuộc thi này.
+
+Lào Cai là địa phương giàu bản sắc văn hóa với nhiều di sản truyền thống đặc sắc của đồng bào dân tộc thiểu số. Trong dòng chảy chuyển đổi số, nhiều nghi lễ, dân ca nghi lễ của người Dao đang được sưu tầm, số hóa và lan tỏa trên các nền tảng trực tuyến, mở ra hướng đi mới trong bảo tồn, phát huy di sản trước nguy cơ mai một theo thời gian.
+
+Đồng bào dân tộc Mường ở xã Quy Mông sinh sống tập trung chủ yếu tại thôn Hợp Thành và rải rác tại một số thôn lân cận. Những năm qua, cùng với phát triển kinh tế, cấp ủy, chính quyền và người dân nơi đây luôn chú trọng gìn giữ, phát huy những giá trị văn hóa truyền thống của dân tộc Mường để bản sắc văn hóa không bị mai một.
+
+Tại mảnh đất Dế Xu Phình (xã Púng Luông, tỉnh Lào Cai), nơi nổi tiếng với rừng thông và những thửa ruộng bậc thang tuyệt đẹp, những đứa trẻ người Mông vẫn đang từng ngày nâng niu, gìn giữ nét đẹp truyền thống của dân tộc mình qua nhiều hoạt động ý nghĩa trong trường học.
+
+Báo Nhân Dân giới thiệu ý tưởng mascot quốc gia Anh Tre, nhân vật được phát triển từ hình tượng cây tre Việt Nam, hướng tới xây dựng một biểu tượng giao tiếp mới của đất nước trong đời sống hiện đại.
+
+Sáng 24/5, tại sân vận động trung tâm xã Bắc Hà, màn đồng diễn múa Sênh tiền với sự tham gia của 1.000 học sinh đã tạo điểm nhấn ấn tượng trong khuôn khổ Festival mùa Hè “Vang xa vó ngựa cao nguyên” năm 2026.
+
+Trong không khí rộn ràng của Lễ khai mạc Tuần du lịch Ninh Bình 2026, sự xuất hiện của các nghệ nhân và những hạt nhân văn nghệ tiêu biểu đến từ các xã, phường (Văn Chấn, Quy Mông, Thác Bà, Nghĩa Lộ) của vùng đất biên cương Lào Cai đã mang đến một sắc thái đầy ấn tượng, với những màn trình diễn độc đáo, đậm đà bản sắc các dân tộc Mông, Dao, Tày, Thái.
+
+Sáng 24/5, vòng chung kết Giải đua ngựa truyền thống Bắc Hà lần thứ 19 diễn ra sôi động tại sân vận động trung tâm xã Bắc Hà, thu hút hàng nghìn người dân và du khách đến theo dõi, cổ vũ. Đây là điểm nhấn đặc biệt trong chuỗi hoạt động Festival mùa Hè “Vang xa vó ngựa cao nguyên” năm 2026.
+
+Sau vòng loại đầy kịch tính với sự tham gia tranh tài của 90 nài ngựa, đã có 32 gương mặt xuất sắc nhất được lựa chọn bước vào tranh tài để chinh phục ngôi vô địch trong sáng nay.
+
+Xã Si Ma Cai, tỉnh Lào Cai vừa tổ chức trình diễn, ghi hình và hoàn thiện hồ sơ trình thẩm định xác lập kỷ lục “Màn biểu diễn múa Sênh tiền đông nhất Việt Nam” với sự tham gia của 1.000 học sinh các trường học trên địa bàn.
+
+Sáng 23/5, tại sân vận động trung tâm xã Bắc Hà, Festival Cao nguyên trắng Bắc Hà 2026 chính thức khai mạc, thu hút đông đảo người dân và du khách trong, ngoài tỉnh tham dự. Đây là hoạt động mở đầu cho chuỗi sự kiện văn hóa, thể thao, du lịch diễn ra đến hết ngày 31/5 với chủ đề “Vang xa vó ngựa cao nguyên”.
+
+Trước khi bị bắt trong chuyên án ma túy quy mô lớn, ca sĩ Long Nhật sở hữu cuộc sống sung túc với biệt thự giá trị lớn cùng nhiều tài sản gây chú ý.
+
+Làng nghề, nghề truyền thống là nơi lưu giữ các giá trị văn hóa truyền thống và sinh kế của người dân. Việc bảo tồn, phát triển làng nghề nhằm gìn giữ giá trị truyền thống, tạo động lực thúc đẩy phát triển kinh tế địa phương.
+
+Từ đỉnh núi mây phủ, dòng Nậm Lùng trong veo len qua xã Tú Lệ như mạch nguồn nuôi dưỡng cả vùng thung lũng trù phú dưới chân đèo Khau Phạ. Dòng nước ấy không chỉ tưới mát cho cánh đồng nếp nổi tiếng bao đời mà còn âm thầm lưu giữ ký ức, nếp sinh hoạt và văn hóa canh tác của người Thái nơi đây.
+
+Nhiều năm gắn bó với công tác giảng dạy tại Khoa Văn hóa - Nghệ thuật, Trường Cao đẳng Lào Cai, giảng viên Trương Thị Hảo luôn dành nhiều tâm huyết để truyền cảm hứng cho các thế hệ học sinh, sinh viên theo đuổi nghệ thuật múa. Và hôm nay, trên chính giảng đường thân thuộc ấy, con gái chị đang tiếp tục hành trình nối dài niềm đam mê được vun đắp từ cái nôi gia đình.
+
+Có những người cầm bút dành cả cuộc đời để đi tìm những đề tài mới lạ, nhưng cũng có những người như nhà văn Hoàng Việt Quân, chọn cách “đứng yên” trên mảnh đất tâm hồn để đào sâu vào những giá trị vĩnh cửu. Hơn 50 năm qua, ông đã dành trọn bút lực để viết về Chủ tịch Hồ Chí Minh - chủ đề mà ông coi là lẽ sống.
+
+Sáng 19/5, tại Bảo tàng tỉnh Lào Cai (cơ sở 1), Trung tâm Văn hóa, Nghệ thuật, Thể thao tỉnh phối hợp cùng Hội Khoa học Lịch sử tỉnh tổ chức trưng bày chuyên đề “Rạng rỡ tên Người” nhân kỷ niệm 136 năm Ngày sinh Chủ tịch Hồ Chí Minh (19/5/1890 - 19/5/2026).
+
+Trong mạch nguồn cảm xúc vô tận về Chủ tịch Hồ Chí Minh, mỗi tác phẩm ra đời đều là lời khẳng định giá trị vĩnh hằng về tư tưởng, đạo đức, phong cách của Người. Nhân dịp kỷ niệm 136 năm Ngày sinh nhật Bác (19/5/1890 - 19/5/2026), tác giả Nguyễn Thế Quynh đã ra mắt bạn đọc tập bút ký “Theo Người vững bước đi lên”.
