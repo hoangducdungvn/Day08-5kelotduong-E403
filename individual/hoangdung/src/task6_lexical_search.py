@@ -15,12 +15,20 @@ BM25 hoạt động thế nào:
     - k1=1.5 (term saturation), b=0.75 (length normalization)
 """
 
+import pickle
 from pathlib import Path
 
-# TODO: Load corpus từ data/standardized/ hoặc từ vector store
-CORPUS: list[dict] = []  # List of {'content': str, 'metadata': dict}
+# Load corpus từ data/vector_store/metadatas.pkl đã tạo ở Task 4
+db_path = Path(__file__).parent.parent / "data" / "vector_store"
+meta_file = db_path / "metadatas.pkl"
 
-
+if meta_file.exists():
+    with open(meta_file, "rb") as f:
+        CORPUS = pickle.load(f)
+else:
+    CORPUS = []
+    
+# Build index
 def build_bm25_index(corpus: list[dict]):
     """
     Xây dựng BM25 index từ corpus.
@@ -28,16 +36,22 @@ def build_bm25_index(corpus: list[dict]):
     Args:
         corpus: List of {'content': str, 'metadata': dict}
     """
-    # TODO: Implement BM25 index
-    #
-    # from rank_bm25 import BM25Okapi
-    #
-    # # Tokenize - cho tiếng Việt nên dùng underthesea hoặc đơn giản split()
-    # tokenized_corpus = [doc["content"].lower().split() for doc in corpus]
-    # bm25 = BM25Okapi(tokenized_corpus)
-    # return bm25
-    raise NotImplementedError("Implement build_bm25_index")
+    from rank_bm25 import BM25Okapi
+    import re
+    
+    # Tokenize đơn giản: lowercase và split
+    # Xóa dấu câu cơ bản để search chính xác hơn
+    tokenized_corpus = []
+    for doc in corpus:
+        text = doc["content"].lower()
+        text = re.sub(r'[^\w\s]', ' ', text)
+        tokenized_corpus.append(text.split())
+        
+    bm25 = BM25Okapi(tokenized_corpus)
+    return bm25
 
+
+bm25_index = build_bm25_index(CORPUS) if CORPUS else None
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     """
@@ -55,29 +69,35 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement lexical search
-    #
-    # tokenized_query = query.lower().split()
-    # scores = bm25.get_scores(tokenized_query)
-    #
-    # # Get top_k indices
-    # import numpy as np
-    # top_indices = np.argsort(scores)[::-1][:top_k]
-    #
-    # results = []
-    # for idx in top_indices:
-    #     if scores[idx] > 0:
-    #         results.append({
-    #             "content": CORPUS[idx]["content"],
-    #             "score": float(scores[idx]),
-    #             "metadata": CORPUS[idx]["metadata"]
-    #         })
-    # return results
-    raise NotImplementedError("Implement lexical_search")
+    import numpy as np
+    import re
+    
+    global CORPUS, bm25_index
+    if not CORPUS:
+        return []
+        
+    query_clean = re.sub(r'[^\w\s]', ' ', query.lower())
+    tokenized_query = query_clean.split()
+    
+    scores = bm25_index.get_scores(tokenized_query)
+    
+    # Get top_k indices
+    top_indices = np.argsort(scores)[::-1][:top_k]
+    
+    results = []
+    for idx in top_indices:
+        if scores[idx] > 0:
+            results.append({
+                "content": CORPUS[idx]["content"],
+                "score": float(scores[idx]),
+                "metadata": CORPUS[idx]["metadata"]
+            })
+    return results
 
 
 if __name__ == "__main__":
     # Test
     results = lexical_search("Điều 248 tàng trữ trái phép chất ma tuý", top_k=5)
     for r in results:
-        print(f"[{r['score']:.3f}] {r['content'][:100]}...")
+        content_safe = r['content'][:100].encode('cp1258', 'replace').decode('cp1258')
+        print(f"[{r['score']:.3f}] {content_safe}...")

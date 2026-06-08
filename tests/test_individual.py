@@ -14,7 +14,7 @@ import unittest
 from pathlib import Path
 
 # Project root
-PROJECT_DIR = Path(__file__).parent.parent
+PROJECT_DIR = Path(__file__).parent.parent / "individual" / "hoangdung"
 DATA_DIR = PROJECT_DIR / "data"
 SRC_DIR = PROJECT_DIR / "src"
 

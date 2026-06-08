@@ -26,41 +26,56 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement semantic search
-    #
-    # Bước 1: Embed query bằng cùng model ở Task 4
-    # Bước 2: Query vector store (cosine similarity)
-    # Bước 3: Return top_k results
-    #
-    # Ví dụ với Weaviate:
-    # import weaviate
-    # from sentence_transformers import SentenceTransformer
-    #
-    # model = SentenceTransformer("BAAI/bge-m3")
-    # query_embedding = model.encode(query).tolist()
-    #
-    # client = weaviate.connect_to_local()
-    # collection = client.collections.get("DrugLawDocs")
-    #
-    # results = collection.query.near_vector(
-    #     near_vector=query_embedding,
-    #     limit=top_k,
-    #     return_metadata=MetadataQuery(distance=True)
-    # )
-    #
-    # return [
-    #     {
-    #         "content": obj.properties["content"],
-    #         "score": 1 - obj.metadata.distance,  # distance → similarity
-    #         "metadata": {"source": obj.properties["source"], ...}
-    #     }
-    #     for obj in results.objects
-    # ]
-    raise NotImplementedError("Implement semantic_search")
+    import faiss
+    import numpy as np
+    import pickle
+    from pathlib import Path
+    from sentence_transformers import SentenceTransformer
+    
+    # Load model (cùng model với Task 4)
+    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+    query_embedding = model.encode([query]).astype("float32")
+    
+    # Đường dẫn file
+    db_path = Path(__file__).parent.parent / "data" / "vector_store"
+    index_file = db_path / "faiss_index.bin"
+    meta_file = db_path / "metadatas.pkl"
+    
+    if not index_file.exists() or not meta_file.exists():
+        return []
+        
+    # Load FAISS index và metadata
+    index = faiss.read_index(str(index_file))
+    with open(meta_file, "rb") as f:
+        metadatas = pickle.load(f)
+        
+    # Search
+    distances, indices = index.search(query_embedding, top_k)
+    
+    results = []
+    for dist, idx in zip(distances[0], indices[0]):
+        if idx == -1: # Không tìm thấy
+            continue
+            
+        # Trong L2 distance, khoảng cách nhỏ là giống nhau. 
+        # Convert sang score giảm dần: 1 / (1 + distance)
+        score = 1.0 / (1.0 + float(dist))
+        
+        meta = metadatas[idx]
+        results.append({
+            "content": meta["content"],
+            "score": score,
+            "metadata": meta["metadata"]
+        })
+        
+    # Sắp xếp theo score giảm dần
+    results = sorted(results, key=lambda x: x["score"], reverse=True)
+    return results
 
 
 if __name__ == "__main__":
     # Test
     results = semantic_search("hình phạt cho tội tàng trữ ma tuý", top_k=5)
     for r in results:
-        print(f"[{r['score']:.3f}] {r['content'][:100]}...")
+        content_safe = r['content'][:100].encode('cp1258', 'replace').decode('cp1258')
+        print(f"[{r['score']:.3f}] {content_safe}...")
